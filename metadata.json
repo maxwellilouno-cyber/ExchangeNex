@@ -1,0 +1,6 @@
+{
+  "name": "OmniRate Currency Exchange & Historical Trends",
+  "description": "Professional real-time currency converter, live interbank exchange rates, historical trend charts, multi-currency watchlist, and transfer fee calculator.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
